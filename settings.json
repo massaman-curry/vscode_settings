@@ -1,0 +1,12 @@
+{
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": true
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#65859b"
+        "statusBar.noFolderBackground": "#65859b"
+        "statusBar.debuggingBackground": "#65859b"
+    }
+
+    "editor.renderIndentGuides": true
+    
+}
